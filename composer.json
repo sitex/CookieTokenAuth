@@ -1,5 +1,5 @@
 {
-    "name": "beskhue/cookietokenauth",
+    "name": "sitex/cookietokenauth",
     "description": "Remember CakePHP user authentications with token cookies.",
     "type": "cakephp-plugin",
     "keywords": [
